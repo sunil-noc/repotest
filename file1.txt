@@ -1,0 +1,9 @@
+Technology
+AWS
+Linux
+git
+ 
+
+Jenkins
+shell script
+
